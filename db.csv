@@ -1,0 +1,19 @@
+username,password,,,,
+db,db,,,,
+walletID,name,category,balance,monthlyIncome,monthstartdate
+0,Pocket Wallet,Cash,5200,2000,22-3-2021
+1,CIB,Credit Card,200190,10000,22-3-2021
+2,QNB,Debit Card,3000,1300,22-3-2021
+expenseID,name,category,cost,date,walletId
+1,Bus,Transport,20,5/2/2021,0
+2,Food,Home,100,3/2/2021,1
+3,Taxi,Transport,600,3/2/2021,2
+4,Mobile,Personal,1000,6/2/2021,2
+5,Mobile,Shopping,2000,6/2/2021,1
+15,Mobile Phone,Shopping,10,1/5/2020,1
+categories,,,,,
+Shopping,,,,,
+Transport,,,,,
+Home,,,,,
+Personal,,,,,
+Education,,,,,
